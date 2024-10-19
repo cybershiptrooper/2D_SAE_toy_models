@@ -1,4 +1,4 @@
-from utils.embeddings import centered_embeddings
+from utils.centered_embeddings import centered_embeddings
 import torch
 
 
